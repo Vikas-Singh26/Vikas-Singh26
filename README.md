@@ -1,6 +1,6 @@
 ## Hi there 👋  I'm Vikas Singh
 
-💻 Data Engineering & Data Analytics Enthusiast  
+💻 Aspiring Data Engineering & Data Analytics Enthusiast  
 🎨 UI/UX Designer | 💡 Problem Solver | 📊 Data Driven Mindset  
 
 - 🔭 I’m currently working on Data Engineering & Analytics projects
